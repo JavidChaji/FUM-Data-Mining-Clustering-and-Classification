@@ -31,9 +31,9 @@ FUM Data Mining Clustering and Classification
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Data-Mining-Clustering-and-Classification.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/stargazers
+[stars-url]: https://github.com/javidchaji/FUM-Data-Mining-Clustering-and-Classification/stargazers
 
 
 <!-- Issues -->
