@@ -43,9 +43,9 @@ FUM Data Mining Clustering and Classification
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Data-Mining-Clustering-and-Classification.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/blob/master/LICENSE
+[license-url]: https://github.com/javidchaji/FUM-Data-Mining-Clustering-and-Classification/blob/master/LICENSE
 
 
 <!-- Linkedin -->
