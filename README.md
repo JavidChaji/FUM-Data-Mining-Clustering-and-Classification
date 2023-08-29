@@ -25,9 +25,9 @@ FUM Data Mining Clustering and Classification
 [contributors-url]: https://github.com/javidchaji/FUM-Data-Mining-Clustering-and-Classification/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Mining-Clustering-and-Classification.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Data-Mining-Clustering-and-Classification/network/members
 
 
 <!-- Stars -->
