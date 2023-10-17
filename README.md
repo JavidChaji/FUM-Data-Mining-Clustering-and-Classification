@@ -151,7 +151,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=yellow
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
