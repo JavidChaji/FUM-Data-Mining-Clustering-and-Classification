@@ -151,10 +151,10 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 <!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=yellow
+[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [javid-linkedin-url]: https://linkedin.com/in/javidchaji
 
 
-[Python.org]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white
+[Python.org]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow
 [Python-url]: https://www.python.org/
