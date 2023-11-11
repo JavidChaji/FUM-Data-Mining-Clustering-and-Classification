@@ -1,13 +1,10 @@
 <a name="readme-top"></a>
 
-
 [![Contributors][Contributors-Shield]][Contributors-URL]
 [![Forks][Forks-Shield]][Forks-URL]
 [![Stargazers][Stars-Shield]][Stars-URL]
 [![Issues][Issues-Shield]][Issues-URL]
 [![MIT License][License-Shield]][License-URL]
-
-
 
 [![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
@@ -45,7 +42,7 @@ FUM Data Mining Clustering and Classification
 
 
 
-
+<!-- Built With -->
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -55,8 +52,6 @@ Technologies and Tools Utilized in this Project
 - [![Python][Python-Shield]][Python-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 
@@ -75,7 +70,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -99,7 +93,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Data-Mining-Clustering-and-Clas
 
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -118,7 +111,6 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
@@ -127,6 +119,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Data-Mining-Clustering-and-Classification.svg?style=for-the-badge
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Data-Mining-Clustering-and-Classification/graphs/contributors
+
 
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Data-Mining-Clustering-and-Classification.svg?style=for-the-badge
@@ -152,7 +145,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [License-URL]: https://github.com/javidchaji/FUM-Data-Mining-Clustering-and-Classification/blob/master/LICENSE
 
 
-<!-- Linkedin -->
+<!-- LinkedIn -->
 [LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 
 [Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
