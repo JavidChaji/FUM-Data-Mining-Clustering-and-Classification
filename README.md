@@ -90,7 +90,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Javid Chaji - [@JavidChaji](https://x.com/JavidChaji) - javid.chaji@gmail.com
+Javid Chaji
+
+[![X][X-Shield]][X-URL]
+
+javid.chaji@gmail.com
 
 Project Link: [https://github.com/JavidChaji/FUM-Data-Mining-Clustering-and-Classification](https://github.com/JavidChaji/FUM-Data-Mining-Clustering-and-Classification)
 
@@ -160,3 +164,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Python-Shield]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 
 [Python-URL]: https://www.python.org/
+
+
+[X-Shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+[X-URL]: https://x.com/JavidChaji
