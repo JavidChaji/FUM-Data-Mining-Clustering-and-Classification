@@ -166,5 +166,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Python-URL]: https://www.python.org/
 
 
+<!-- X -->
 [X-Shield]: https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white
+
 [X-URL]: https://x.com/JavidChaji
